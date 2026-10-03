@@ -18,7 +18,7 @@ I'm a data-science learner building real, hands-on ML projects from the ground u
 
 What makes my angle a little different: alongside ML, I actively work as a **UI/UX designer and graphic designer** across several student organizations at ITS, so I bring a genuine design sensibility to how data and results get *communicated*, not just modeled.
 
-- 🔭 Currently building: ML pipelines for market signal research, and UI/UX work for **HMSI ITS (SIMETRI)** and **Information Systems Expo**
+- 🔭 Currently building: ML pipelines for market signal research, graphic design work for 180DC ITS, and UI/UX work for **HMSI ITS (SIMETRI)** and **Information Systems Expo**
 - 🌱 Currently learning: applied machine learning, panel/pooled modeling for financial time series, ETL pipelines, medallion architecture for data lakehouse, data visualization, and Bayesian approaches to forecasting
 - 🎨 Also active as: Web Development Staff (GERIGI x UKM EXPO ITS), Market Analyst (180 Degrees Consulting ITS), and Creative Design Staff (Petrolida)
 - 💬 Ask me about: ML pipeline design, data visualization, or UI/UX for products
@@ -70,7 +70,3 @@ What makes my angle a little different: alongside ML, I actively work as a **UI/
 </p>
 
 ---
-
-### Featured project
-
-**[trade_stock_ml](https://github.com/dreadf/trade_stock_ml)** — 5-day stock direction prediction pipeline (AAPL/MSFT/JPM/KO/XOM) built for the Alpaca AI Trading Agents Hackathon. Config-driven Python package, chronological train/test validation, baseline → Logistic Regression → XGBoost comparison, feature-group ablation study, and an honest experiment log covering what worked, what didn't, and why.
