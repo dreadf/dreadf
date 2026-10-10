@@ -20,7 +20,7 @@ What makes my angle a little different: alongside ML, I actively work as a **UI/
 
 - 🔭 Currently building: ML pipelines for market signal research, graphic design work for 180DC ITS, and UI/UX work for **HMSI ITS (SIMETRI)** and **Information Systems Expo**
 - 🌱 Currently learning: applied machine learning, panel/pooled modeling for financial time series, ETL pipelines, medallion architecture for data lakehouse, data visualization, and Bayesian approaches to forecasting
-- 🎨 Also active as: Web Development Staff (GERIGI x UKM EXPO ITS), Market Analyst (180 Degrees Consulting ITS), and Creative Design Staff (Petrolida)
+- 🎨 Also active as: Web Development Staff (GERIGI x UKM EXPO ITS), UI/UX Expert Staff (ISE 2026), Market Analyst (180 Degrees Consulting ITS), and Creative Design Staff (Petrolida)
 - 💬 Ask me about: ML pipeline design, data visualization, or UI/UX for products
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raid-orlando-azurae-50a6a3322/)
 
