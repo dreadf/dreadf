@@ -14,15 +14,15 @@
 
 ### About me
 
-I'm a data-science learner building real, hands-on ML projects from the ground up, most recently a 5-day stock direction prediction pipeline for the Alpaca AI Trading Agents Hackathon, covering feature engineering, model comparison (Logistic Regression, XGBoost), cross-validation, and honest reporting of negative results (not every project needs to "win" to be worth documenting).
+I'm a data-science learner building real, hands-on ML projects from the ground up, most recently a 5-day stock direction prediction pipeline for the Alpaca AI Trading Agents Hackathon and a market analysis app (ArgusIDX) for Sector's hackathon.
 
 What makes my angle a little different: alongside ML, I actively work as a **UI/UX designer and graphic designer** across several student organizations at ITS, so I bring a genuine design sensibility to how data and results get *communicated*, not just modeled.
 
 - 🔭 Currently building: ML pipelines for market signal research, graphic design work for 180DC ITS, and UI/UX work for **HMSI ITS (SIMETRI)** and **Information Systems Expo**
 - 🌱 Currently learning: applied machine learning, panel/pooled modeling for financial time series, ETL pipelines, medallion architecture for data lakehouse, data visualization, and Bayesian approaches to forecasting
-- 🎨 Also active as: Web Development Staff (GERIGI x UKM EXPO ITS), UI/UX Expert Staff (ISE 2026), Market Analyst (180 Degrees Consulting ITS), and Creative Design Staff (Petrolida)
-- 💬 Ask me about: ML pipeline design, data visualization, or UI/UX for products
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raid-orlando-azurae-50a6a3322/)
+- 🎨 Also active as: Web Development Staff (GERIGI x UKM EXPO ITS), UI/UX Expert Staff (ISE 2026), Market Analyst (180 Degrees Consulting ITS), UI/UX Designer (SIMETRI), and Creative Design Staff (Petrolida)
+- 💬 Ask me about: ML pipeline design, data visualization, creative industry, or UI/UX for products
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raid-orlando-azurae-50a6a3322/) [Fiverr](https://www.fiverr.com/s/qbbe602)
 
 ---
 
